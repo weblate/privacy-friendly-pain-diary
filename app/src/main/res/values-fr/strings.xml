@@ -33,7 +33,7 @@
     <string name="help_whatis_answer">Pain Diary est une application qui vous permet de tenir un journal quotidien dans lequel vous consignez votre état de santé, l\'intensité, le lieu, la nature et l\'heure de la douleur que vous ressentez, ainsi que les médicaments que vous prenez et des notes supplémentaires.</string>
     <string name="help_privacy">Qu\'est-ce qui rend l\'application respectueuse de la vie privée ?</string>
     <string name="help_privacy_answer">Privacy Friendly Pain Diary requiert des autorisations minimales. Il n\'inclut pas de mécanismes de suivi, ni de publicité.</string>
-    <string name="help_permission">Quelles sont les autorisations requises pour l\'application ?</string>
+    <string name="help_permission">Quelles sont les autorisations requises par l\'application ?</string>
     <string name="help_permission_answer">Pain Diary nécessite un accès en écriture au stockage de votre appareil si vous souhaitez exporter les entrées de votre journal au format PDF. Toutes les autres fonctionnalités ne nécessitent aucune autorisation.</string>
     <string name="help_add_entry">Comment ajouter une nouvelle entrée dans le journal ?</string>
     <string name="help_add_entry_answer">Une nouvelle entrée dans le journal peut être ajoutée en sélectionnant un jour dans le calendrier. Il ne peut toutefois y avoir qu\'une seule entrée par jour. Les jours pour lesquels des entrées existent déjà sont marqués dans le calendrier.</string>
@@ -131,7 +131,7 @@
     <string name="reminders_channel_title">Rappels</string>
     <string name="notification_title">Rappel</string>
     <string name="notification_text">N\'oubliez pas de compléter votre journal !</string>
-    <string name="snooze">Rappeler plus tard</string>
+    <string name="snooze">Prolonger</string>
     <!-- ### PDF ### -->
     <string name="export_pdf">Export PDF</string>
     <string name="export">Exporter</string>
